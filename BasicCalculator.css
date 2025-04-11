@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.3);
     padding: 1rem 2rem;
     display: flex;
     justify-content: space-between;
